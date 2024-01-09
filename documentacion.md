@@ -2,6 +2,9 @@
 ## Encabezado de segundo nivel
 #### Encabezado de cuarto nivel
 Buenos dias
+>Esto es una nota
+> [WARNING]
+>Cuidado con los virus
 *cursiva*
 _cursiva_
 **negrita**
