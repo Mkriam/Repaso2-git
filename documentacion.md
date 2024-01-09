@@ -7,6 +7,9 @@ Buenos dias
 > [!WARNING]
 > Cuidado con los virus
 
+> [!IMPORTANT]
+> Importante.
+
 *cursiva*
 _cursiva_
 **negrita**
